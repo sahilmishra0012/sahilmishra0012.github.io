@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /images/
+Allow: /
+
+Sitemap: https://taheroo.github.io/sitemap.xml
