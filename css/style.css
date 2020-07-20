@@ -868,8 +868,6 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	height: 42px;
 	line-height: 42px;
 	font-size: 16px;
-	color: #232323;
-	background: #fff;
 	border-radius: 100%;
 	box-shadow: 0 4px 12px rgba(0,0,0,.13);
 	margin: 0 4px;
